@@ -15,7 +15,7 @@ Some implementations in other languages are also available:
 - [Swift](https://github.com/socketio/socket.io-client-swift)
 - [Dart](https://github.com/rikulo/socket.io-client-dart)
 
-## Folders contain 3 versions of the chat-example
+## git-repo contain 3 versions of the chat-example
 - socket.io - instructions and build from socket.io
 - public - instructions and build for server side ingegration
 - chat-example - tested and interactive demo to be run in browser IP address:3001
